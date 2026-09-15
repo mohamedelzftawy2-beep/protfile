@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18091e"/><stop offset="1" stop-color="#521044"/></linearGradient><linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff006e"/><stop offset="1" stop-color="#b537f2"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="135" cy="365" r="160" fill="#ff006e" opacity=".13"/>
+  <rect x="235" y="52" width="330" height="340" rx="28" fill="#211128" stroke="#ff006e" stroke-width="4"/>
+  <rect x="356" y="35" width="88" height="30" rx="12" fill="#ff006e"/>
+  <circle cx="400" cy="205" r="105" fill="#0f0715" stroke="url(#pink)" stroke-width="10"/>
+  <text x="400" y="220" fill="white" font-family="Arial" font-size="44" text-anchor="middle">00:42</text>
+  <rect x="290" y="335" width="90" height="28" rx="14" fill="#ff006e"/><rect x="420" y="335" width="90" height="28" rx="14" fill="#57235e"/>
+  <text x="400" y="425" fill="#ffe4f2" font-family="Arial" font-size="20" text-anchor="middle">STOPWATCH</text>
+</svg>

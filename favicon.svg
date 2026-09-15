@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MO ELZFTAWY favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101010"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7d57a"/>
+      <stop offset="45%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#a67c00"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#d4af37" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="url(#bg)"/>
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="none" stroke="url(#gold)" stroke-width="3"/>
+
+  <g filter="url(#glow)">
+    <path d="M32 88V40h12l20 28 20-28h12v48h-12V58L70 82H58L44 58v30H32Z" fill="url(#gold)"/>
+    <path d="M20 42L38 24h8L34 42H20Zm88 0L90 24h-8l12 18h16Z" fill="url(#gold)" opacity="0.9"/>
+    <path d="M32 32h64v9H32z" fill="url(#gold)" opacity="0.75"/>
+  </g>
+</svg>
